@@ -4,7 +4,7 @@
 - 게임 반복여부 / palyAgain()
 - 입력 값 검증 / validateUserInput(input)
 - 답안 검증 함수 / calculateResult(userInput)
-- 결과 출력 함수 / displayResult displayResult(strike, ball)
+- 결과 출력 함수 / displayResult(strike, ball)
 
 # 미션 - 숫자 야구
 
