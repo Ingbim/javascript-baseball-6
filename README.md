@@ -1,7 +1,10 @@
 # 구현 기능 목록
-- 랜덤 값 생성
-- 입력 값 검증
-- 답안 검증
+- 랜덤한 3자리 숫자 생성 / generateRandomNumber()
+- 게임 시작 / play()
+- 게임 반복여부 / palyAgain()
+- 입력 값 검증 / validateUserInput(input)
+- 답안 검증 함수 / calculateResult(userInput)
+- 결과 출력 함수 / displayResult displayResult(strike, ball)
 
 # 미션 - 숫자 야구
 
